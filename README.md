@@ -9,8 +9,10 @@ Tu misión es cuantificar cómo el clima y la estacionalidad afectan la demanda 
 Integrante 1:  Beltran Beltran Andres
 responsabilidad: punto #1 y Unificacion (lider) 
 
+
 Integrante 2:  Herrera Rodriguez Camila
 responsabilidad: punto #2 y #3  
+
 
 Integrante 3:  Torres Henao     
 responsabilidad: punto #4 y #5  
