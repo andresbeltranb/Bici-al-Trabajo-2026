@@ -7,7 +7,7 @@ La operadora de bicicletas públicas quiere lanzar el programa Bici al Trabajo 2
 Tu misión es cuantificar cómo el clima y la estacionalidad afectan la demanda diaria (cnt), verificar supuestos estadísticos básicos y comprobar con evidencia si hoy, bajo condiciones típicas, la media diaria en días laborales alcanza (o no) el umbral de 4.500. Además, deberás comunicar una medida robusta del uso típico (mediana) para reportes públicos, donde la distribución puede ser asimétrica.
 
 
-| Apellidos         | Nombre    | Responsabilidades                     | 
+| Apellidos         | Nombre    | Responsabilidades                      | 
 |-------------------|-----------|----------------|-----------------------|
 | Beltran Beltran   | Andres    |  punto #1 y Unificacion (lider)        |
 | Herrera Rodriguez | Carlos    |  punto #2 y #3                         |
